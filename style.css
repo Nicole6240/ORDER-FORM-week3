@@ -2,14 +2,16 @@ html, body {
   height: 100%;
   width: 100%;
 }
-h1, h2{
-  font-weight: bold;
-  font-family: Franklin Gothic Medium;
+
+h1{
+  border-style: dashed;
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-  background-color: lightblue;
+  background-color: rgb(209, 199, 184);
 }
-h3{
-  font-family: Cambria;
+img{
+  width: 200px;
+  height: 200px;
 }
